@@ -1,4 +1,5 @@
 IMPORTANT: this mod is vibe-coded (because i'm too lazy to code it myself).  
+so this mod may have bugs but I WILL NOT change it  
 DO NOT USE THIS MOD ON SERVERS IF AUTO-TOTEM ISN'T ALLOWED  
 
 an auto totem mod for fabric 26.2  
